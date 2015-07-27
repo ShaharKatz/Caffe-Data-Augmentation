@@ -17,7 +17,7 @@ The ways in which the data is augmentated is explained here:
 9. Multiple Random Transformations - chooses each transofrmation with probability 1/7, such that the mean is one transformation for every image. 
 
 The desired transformation(s) is chosen by parameter transform_type within the prototxt file for the data layer. The value of the parameter corresponds to the transform schemes described above.
-For example, transform_type=4 uses vertical flipping as it's transformation.
+For example, '''transform_type=4''' uses vertical flipping as it's transformation.
 
 
 This project was developed by Shani Rehana, Baruch Epstein and Shahar Katz.
