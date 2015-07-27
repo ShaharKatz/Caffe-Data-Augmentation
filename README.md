@@ -1,6 +1,6 @@
 # Caffe-Data-Augmentation
 
-The original repository for Caffe, developed by the Berkeley Vision and Learning Center  and community contributors, is at  ([BVLC](http://bvlc.eecs.berkeley.edu)).
+The original repository for Caffe, developed by the Berkeley Vision and Learning Center ([BVLC](http://bvlc.eecs.berkeley.edu)) and community contributors, is at ([BVLC\caffe](https://github.com/BVLC/caffe/tree/rc2))
 
 This project adds a data augmentation feature to caffe, augmenting the data in 9 several ways. 
 
@@ -22,3 +22,5 @@ For example, transform_type=4 uses vertical flipping as it's transformation.
 
 
 This project was developed by Shani Rehana, Baruch Epstein and Shahar Katz.
+
+The latest version for this project is rc2. 
